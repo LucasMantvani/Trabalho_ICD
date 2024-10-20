@@ -1,0 +1,18 @@
+import kagglehub
+
+
+
+def main() -> None:
+
+
+    # Download latest version
+    path = kagglehub.dataset_download("lakshmi25npathi/bike-sharing-dataset")
+
+    print("Path to dataset files:", path)
+
+    return None
+
+
+if __name__ == "__main__":
+
+    main()
