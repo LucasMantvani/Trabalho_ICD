@@ -1,0 +1,8 @@
+1 - não tratar como serie temporal, pois tivemos um aumento no número de consultas de um ano para o outro
+2 - um modelo para cada publico casual e registrado
+3 - um modelo para dia de trabalho e dia de folga 
+    teriamos 4 modelos para ajustar 
+5 - descartar uma variavel de temperatura e deixar apenas "temp"
+6 - variaveis humidade e vento APARENTEMENTE não são importantes precisamos de mais visualizações
+    fazer vizualizações mais completas em relação a elas e ao tempo talves elas sejam uteis 
+9 - em feriados e fins de semana os registrados se comportam como casuais?
